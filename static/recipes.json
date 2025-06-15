@@ -1,0 +1,1332 @@
+
+{
+    "curd rice": {
+        "name": "Curd Rice",
+        "ingredients": [
+            "1 cup cooked rice",
+            "1/2 cup curd",
+            "Salt to taste",
+            "1 tsp mustard seeds",
+            "1-2 green chilies, chopped",
+            "1 tsp grated ginger",
+            "1 tbsp oil",
+            "A few curry leaves",
+            "Coriander leaves for garnish"
+        ],
+        "steps": [
+            "Cook rice and let it cool.",
+            "Add curd and salt to the rice and mix well.",
+            "Heat oil in a pan, add mustard seeds, let them splutter.",
+            "Add chopped green chilies, ginger, and curry leaves. Saut\u00e9 for a few seconds.",
+            "Add the tempering to the rice-curd mix.",
+            "Garnish with coriander leaves and serve chilled."
+        ],
+        "nutrition": {
+            "calories": "250 kcal",
+            "protein": "6 g",
+            "carbohydrates": "35 g",
+            "fat": "8 g",
+            "fiber": "1 g"
+        }
+    },
+    "aloo paratha": {
+        "name": "Aloo Paratha",
+        "ingredients": [
+            "Ingredient 1 for aloo paratha",
+            "Ingredient 2 for aloo paratha",
+            "Ingredient 3 for aloo paratha",
+            "Ingredient 4 for aloo paratha",
+            "Ingredient 5 for aloo paratha"
+        ],
+        "steps": [
+            "Step 1 for making aloo paratha",
+            "Step 2 for making aloo paratha",
+            "Step 3 for making aloo paratha",
+            "Step 4 for making aloo paratha"
+        ],
+        "nutrition": {
+            "calories": "200 kcal",
+            "protein": "5 g",
+            "carbohydrates": "25 g",
+            "fat": "6 g",
+            "fiber": "1 g"
+        }
+    },
+    "masala dosa": {
+        "name": "Masala Dosa",
+        "ingredients": [
+            "Ingredient 1 for masala dosa",
+            "Ingredient 2 for masala dosa",
+            "Ingredient 3 for masala dosa",
+            "Ingredient 4 for masala dosa",
+            "Ingredient 5 for masala dosa",
+            "Ingredient 6 for masala dosa"
+        ],
+        "steps": [
+            "Step 1 for making masala dosa",
+            "Step 2 for making masala dosa",
+            "Step 3 for making masala dosa",
+            "Step 4 for making masala dosa",
+            "Step 5 for making masala dosa"
+        ],
+        "nutrition": {
+            "calories": "205 kcal",
+            "protein": "6 g",
+            "carbohydrates": "26 g",
+            "fat": "7 g",
+            "fiber": "2 g"
+        }
+    },
+    "idli": {
+        "name": "Idli",
+        "ingredients": [
+            "Ingredient 1 for idli",
+            "Ingredient 2 for idli",
+            "Ingredient 3 for idli",
+            "Ingredient 4 for idli",
+            "Ingredient 5 for idli",
+            "Ingredient 6 for idli",
+            "Ingredient 7 for idli"
+        ],
+        "steps": [
+            "Step 1 for making idli",
+            "Step 2 for making idli",
+            "Step 3 for making idli",
+            "Step 4 for making idli",
+            "Step 5 for making idli",
+            "Step 6 for making idli"
+        ],
+        "nutrition": {
+            "calories": "210 kcal",
+            "protein": "7 g",
+            "carbohydrates": "27 g",
+            "fat": "8 g",
+            "fiber": "3 g"
+        }
+    },
+    "sambar": {
+        "name": "Sambar",
+        "ingredients": [
+            "Ingredient 1 for sambar",
+            "Ingredient 2 for sambar",
+            "Ingredient 3 for sambar",
+            "Ingredient 4 for sambar",
+            "Ingredient 5 for sambar",
+            "Ingredient 6 for sambar",
+            "Ingredient 7 for sambar",
+            "Ingredient 8 for sambar"
+        ],
+        "steps": [
+            "Step 1 for making sambar",
+            "Step 2 for making sambar",
+            "Step 3 for making sambar",
+            "Step 4 for making sambar"
+        ],
+        "nutrition": {
+            "calories": "215 kcal",
+            "protein": "8 g",
+            "carbohydrates": "28 g",
+            "fat": "9 g",
+            "fiber": "1 g"
+        }
+    },
+    "rajma": {
+        "name": "Rajma",
+        "ingredients": [
+            "Ingredient 1 for rajma",
+            "Ingredient 2 for rajma",
+            "Ingredient 3 for rajma",
+            "Ingredient 4 for rajma",
+            "Ingredient 5 for rajma",
+            "Ingredient 6 for rajma",
+            "Ingredient 7 for rajma",
+            "Ingredient 8 for rajma",
+            "Ingredient 9 for rajma"
+        ],
+        "steps": [
+            "Step 1 for making rajma",
+            "Step 2 for making rajma",
+            "Step 3 for making rajma",
+            "Step 4 for making rajma",
+            "Step 5 for making rajma"
+        ],
+        "nutrition": {
+            "calories": "220 kcal",
+            "protein": "5 g",
+            "carbohydrates": "29 g",
+            "fat": "10 g",
+            "fiber": "2 g"
+        }
+    },
+    "chole": {
+        "name": "Chole",
+        "ingredients": [
+            "Ingredient 1 for chole",
+            "Ingredient 2 for chole",
+            "Ingredient 3 for chole",
+            "Ingredient 4 for chole",
+            "Ingredient 5 for chole"
+        ],
+        "steps": [
+            "Step 1 for making chole",
+            "Step 2 for making chole",
+            "Step 3 for making chole",
+            "Step 4 for making chole",
+            "Step 5 for making chole",
+            "Step 6 for making chole"
+        ],
+        "nutrition": {
+            "calories": "225 kcal",
+            "protein": "6 g",
+            "carbohydrates": "30 g",
+            "fat": "6 g",
+            "fiber": "3 g"
+        }
+    },
+    "butter chicken": {
+        "name": "Butter Chicken",
+        "ingredients": [
+            "Ingredient 1 for butter chicken",
+            "Ingredient 2 for butter chicken",
+            "Ingredient 3 for butter chicken",
+            "Ingredient 4 for butter chicken",
+            "Ingredient 5 for butter chicken",
+            "Ingredient 6 for butter chicken"
+        ],
+        "steps": [
+            "Step 1 for making butter chicken",
+            "Step 2 for making butter chicken",
+            "Step 3 for making butter chicken",
+            "Step 4 for making butter chicken"
+        ],
+        "nutrition": {
+            "calories": "230 kcal",
+            "protein": "7 g",
+            "carbohydrates": "31 g",
+            "fat": "7 g",
+            "fiber": "1 g"
+        }
+    },
+    "palak paneer": {
+        "name": "Palak Paneer",
+        "ingredients": [
+            "Ingredient 1 for palak paneer",
+            "Ingredient 2 for palak paneer",
+            "Ingredient 3 for palak paneer",
+            "Ingredient 4 for palak paneer",
+            "Ingredient 5 for palak paneer",
+            "Ingredient 6 for palak paneer",
+            "Ingredient 7 for palak paneer"
+        ],
+        "steps": [
+            "Step 1 for making palak paneer",
+            "Step 2 for making palak paneer",
+            "Step 3 for making palak paneer",
+            "Step 4 for making palak paneer",
+            "Step 5 for making palak paneer"
+        ],
+        "nutrition": {
+            "calories": "235 kcal",
+            "protein": "8 g",
+            "carbohydrates": "32 g",
+            "fat": "8 g",
+            "fiber": "2 g"
+        }
+    },
+    "dal makhani": {
+        "name": "Dal Makhani",
+        "ingredients": [
+            "Ingredient 1 for dal makhani",
+            "Ingredient 2 for dal makhani",
+            "Ingredient 3 for dal makhani",
+            "Ingredient 4 for dal makhani",
+            "Ingredient 5 for dal makhani",
+            "Ingredient 6 for dal makhani",
+            "Ingredient 7 for dal makhani",
+            "Ingredient 8 for dal makhani"
+        ],
+        "steps": [
+            "Step 1 for making dal makhani",
+            "Step 2 for making dal makhani",
+            "Step 3 for making dal makhani",
+            "Step 4 for making dal makhani",
+            "Step 5 for making dal makhani",
+            "Step 6 for making dal makhani"
+        ],
+        "nutrition": {
+            "calories": "240 kcal",
+            "protein": "5 g",
+            "carbohydrates": "33 g",
+            "fat": "9 g",
+            "fiber": "3 g"
+        }
+    },
+    "biryani": {
+        "name": "Biryani",
+        "ingredients": [
+            "Ingredient 1 for biryani",
+            "Ingredient 2 for biryani",
+            "Ingredient 3 for biryani",
+            "Ingredient 4 for biryani",
+            "Ingredient 5 for biryani",
+            "Ingredient 6 for biryani",
+            "Ingredient 7 for biryani",
+            "Ingredient 8 for biryani",
+            "Ingredient 9 for biryani"
+        ],
+        "steps": [
+            "Step 1 for making biryani",
+            "Step 2 for making biryani",
+            "Step 3 for making biryani",
+            "Step 4 for making biryani"
+        ],
+        "nutrition": {
+            "calories": "245 kcal",
+            "protein": "6 g",
+            "carbohydrates": "34 g",
+            "fat": "10 g",
+            "fiber": "1 g"
+        }
+    },
+    "pulao": {
+        "name": "Pulao",
+        "ingredients": [
+            "Ingredient 1 for pulao",
+            "Ingredient 2 for pulao",
+            "Ingredient 3 for pulao",
+            "Ingredient 4 for pulao",
+            "Ingredient 5 for pulao"
+        ],
+        "steps": [
+            "Step 1 for making pulao",
+            "Step 2 for making pulao",
+            "Step 3 for making pulao",
+            "Step 4 for making pulao",
+            "Step 5 for making pulao"
+        ],
+        "nutrition": {
+            "calories": "250 kcal",
+            "protein": "7 g",
+            "carbohydrates": "25 g",
+            "fat": "6 g",
+            "fiber": "2 g"
+        }
+    },
+    "paneer tikka": {
+        "name": "Paneer Tikka",
+        "ingredients": [
+            "Ingredient 1 for paneer tikka",
+            "Ingredient 2 for paneer tikka",
+            "Ingredient 3 for paneer tikka",
+            "Ingredient 4 for paneer tikka",
+            "Ingredient 5 for paneer tikka",
+            "Ingredient 6 for paneer tikka"
+        ],
+        "steps": [
+            "Step 1 for making paneer tikka",
+            "Step 2 for making paneer tikka",
+            "Step 3 for making paneer tikka",
+            "Step 4 for making paneer tikka",
+            "Step 5 for making paneer tikka",
+            "Step 6 for making paneer tikka"
+        ],
+        "nutrition": {
+            "calories": "255 kcal",
+            "protein": "8 g",
+            "carbohydrates": "26 g",
+            "fat": "7 g",
+            "fiber": "3 g"
+        }
+    },
+    "tandoori chicken": {
+        "name": "Tandoori Chicken",
+        "ingredients": [
+            "Ingredient 1 for tandoori chicken",
+            "Ingredient 2 for tandoori chicken",
+            "Ingredient 3 for tandoori chicken",
+            "Ingredient 4 for tandoori chicken",
+            "Ingredient 5 for tandoori chicken",
+            "Ingredient 6 for tandoori chicken",
+            "Ingredient 7 for tandoori chicken"
+        ],
+        "steps": [
+            "Step 1 for making tandoori chicken",
+            "Step 2 for making tandoori chicken",
+            "Step 3 for making tandoori chicken",
+            "Step 4 for making tandoori chicken"
+        ],
+        "nutrition": {
+            "calories": "260 kcal",
+            "protein": "5 g",
+            "carbohydrates": "27 g",
+            "fat": "8 g",
+            "fiber": "1 g"
+        }
+    },
+    "korma": {
+        "name": "Korma",
+        "ingredients": [
+            "Ingredient 1 for korma",
+            "Ingredient 2 for korma",
+            "Ingredient 3 for korma",
+            "Ingredient 4 for korma",
+            "Ingredient 5 for korma",
+            "Ingredient 6 for korma",
+            "Ingredient 7 for korma",
+            "Ingredient 8 for korma"
+        ],
+        "steps": [
+            "Step 1 for making korma",
+            "Step 2 for making korma",
+            "Step 3 for making korma",
+            "Step 4 for making korma",
+            "Step 5 for making korma"
+        ],
+        "nutrition": {
+            "calories": "265 kcal",
+            "protein": "6 g",
+            "carbohydrates": "28 g",
+            "fat": "9 g",
+            "fiber": "2 g"
+        }
+    },
+    "rogan josh": {
+        "name": "Rogan Josh",
+        "ingredients": [
+            "Ingredient 1 for rogan josh",
+            "Ingredient 2 for rogan josh",
+            "Ingredient 3 for rogan josh",
+            "Ingredient 4 for rogan josh",
+            "Ingredient 5 for rogan josh",
+            "Ingredient 6 for rogan josh",
+            "Ingredient 7 for rogan josh",
+            "Ingredient 8 for rogan josh",
+            "Ingredient 9 for rogan josh"
+        ],
+        "steps": [
+            "Step 1 for making rogan josh",
+            "Step 2 for making rogan josh",
+            "Step 3 for making rogan josh",
+            "Step 4 for making rogan josh",
+            "Step 5 for making rogan josh",
+            "Step 6 for making rogan josh"
+        ],
+        "nutrition": {
+            "calories": "270 kcal",
+            "protein": "7 g",
+            "carbohydrates": "29 g",
+            "fat": "10 g",
+            "fiber": "3 g"
+        }
+    },
+    "kadhi": {
+        "name": "Kadhi",
+        "ingredients": [
+            "Ingredient 1 for kadhi",
+            "Ingredient 2 for kadhi",
+            "Ingredient 3 for kadhi",
+            "Ingredient 4 for kadhi",
+            "Ingredient 5 for kadhi"
+        ],
+        "steps": [
+            "Step 1 for making kadhi",
+            "Step 2 for making kadhi",
+            "Step 3 for making kadhi",
+            "Step 4 for making kadhi"
+        ],
+        "nutrition": {
+            "calories": "275 kcal",
+            "protein": "8 g",
+            "carbohydrates": "30 g",
+            "fat": "6 g",
+            "fiber": "1 g"
+        }
+    },
+    "baingan bharta": {
+        "name": "Baingan Bharta",
+        "ingredients": [
+            "Ingredient 1 for baingan bharta",
+            "Ingredient 2 for baingan bharta",
+            "Ingredient 3 for baingan bharta",
+            "Ingredient 4 for baingan bharta",
+            "Ingredient 5 for baingan bharta",
+            "Ingredient 6 for baingan bharta"
+        ],
+        "steps": [
+            "Step 1 for making baingan bharta",
+            "Step 2 for making baingan bharta",
+            "Step 3 for making baingan bharta",
+            "Step 4 for making baingan bharta",
+            "Step 5 for making baingan bharta"
+        ],
+        "nutrition": {
+            "calories": "280 kcal",
+            "protein": "5 g",
+            "carbohydrates": "31 g",
+            "fat": "7 g",
+            "fiber": "2 g"
+        }
+    },
+    "poha": {
+        "name": "Poha",
+        "ingredients": [
+            "Ingredient 1 for poha",
+            "Ingredient 2 for poha",
+            "Ingredient 3 for poha",
+            "Ingredient 4 for poha",
+            "Ingredient 5 for poha",
+            "Ingredient 6 for poha",
+            "Ingredient 7 for poha"
+        ],
+        "steps": [
+            "Step 1 for making poha",
+            "Step 2 for making poha",
+            "Step 3 for making poha",
+            "Step 4 for making poha",
+            "Step 5 for making poha",
+            "Step 6 for making poha"
+        ],
+        "nutrition": {
+            "calories": "285 kcal",
+            "protein": "6 g",
+            "carbohydrates": "32 g",
+            "fat": "8 g",
+            "fiber": "3 g"
+        }
+    },
+    "upma": {
+        "name": "Upma",
+        "ingredients": [
+            "Ingredient 1 for upma",
+            "Ingredient 2 for upma",
+            "Ingredient 3 for upma",
+            "Ingredient 4 for upma",
+            "Ingredient 5 for upma",
+            "Ingredient 6 for upma",
+            "Ingredient 7 for upma",
+            "Ingredient 8 for upma"
+        ],
+        "steps": [
+            "Step 1 for making upma",
+            "Step 2 for making upma",
+            "Step 3 for making upma",
+            "Step 4 for making upma"
+        ],
+        "nutrition": {
+            "calories": "290 kcal",
+            "protein": "7 g",
+            "carbohydrates": "33 g",
+            "fat": "9 g",
+            "fiber": "1 g"
+        }
+    },
+    "pav bhaji": {
+        "name": "Pav Bhaji",
+        "ingredients": [
+            "Ingredient 1 for pav bhaji",
+            "Ingredient 2 for pav bhaji",
+            "Ingredient 3 for pav bhaji",
+            "Ingredient 4 for pav bhaji",
+            "Ingredient 5 for pav bhaji",
+            "Ingredient 6 for pav bhaji",
+            "Ingredient 7 for pav bhaji",
+            "Ingredient 8 for pav bhaji",
+            "Ingredient 9 for pav bhaji"
+        ],
+        "steps": [
+            "Step 1 for making pav bhaji",
+            "Step 2 for making pav bhaji",
+            "Step 3 for making pav bhaji",
+            "Step 4 for making pav bhaji",
+            "Step 5 for making pav bhaji"
+        ],
+        "nutrition": {
+            "calories": "295 kcal",
+            "protein": "8 g",
+            "carbohydrates": "34 g",
+            "fat": "10 g",
+            "fiber": "2 g"
+        }
+    },
+    "veg cutlet": {
+        "name": "Veg Cutlet",
+        "ingredients": [
+            "Ingredient 1 for veg cutlet",
+            "Ingredient 2 for veg cutlet",
+            "Ingredient 3 for veg cutlet",
+            "Ingredient 4 for veg cutlet",
+            "Ingredient 5 for veg cutlet"
+        ],
+        "steps": [
+            "Step 1 for making veg cutlet",
+            "Step 2 for making veg cutlet",
+            "Step 3 for making veg cutlet",
+            "Step 4 for making veg cutlet",
+            "Step 5 for making veg cutlet",
+            "Step 6 for making veg cutlet"
+        ],
+        "nutrition": {
+            "calories": "300 kcal",
+            "protein": "5 g",
+            "carbohydrates": "25 g",
+            "fat": "6 g",
+            "fiber": "3 g"
+        }
+    },
+    "matar paneer": {
+        "name": "Matar Paneer",
+        "ingredients": [
+            "Ingredient 1 for matar paneer",
+            "Ingredient 2 for matar paneer",
+            "Ingredient 3 for matar paneer",
+            "Ingredient 4 for matar paneer",
+            "Ingredient 5 for matar paneer",
+            "Ingredient 6 for matar paneer"
+        ],
+        "steps": [
+            "Step 1 for making matar paneer",
+            "Step 2 for making matar paneer",
+            "Step 3 for making matar paneer",
+            "Step 4 for making matar paneer"
+        ],
+        "nutrition": {
+            "calories": "305 kcal",
+            "protein": "6 g",
+            "carbohydrates": "26 g",
+            "fat": "7 g",
+            "fiber": "1 g"
+        }
+    },
+    "bhindi masala": {
+        "name": "Bhindi Masala",
+        "ingredients": [
+            "Ingredient 1 for bhindi masala",
+            "Ingredient 2 for bhindi masala",
+            "Ingredient 3 for bhindi masala",
+            "Ingredient 4 for bhindi masala",
+            "Ingredient 5 for bhindi masala",
+            "Ingredient 6 for bhindi masala",
+            "Ingredient 7 for bhindi masala"
+        ],
+        "steps": [
+            "Step 1 for making bhindi masala",
+            "Step 2 for making bhindi masala",
+            "Step 3 for making bhindi masala",
+            "Step 4 for making bhindi masala",
+            "Step 5 for making bhindi masala"
+        ],
+        "nutrition": {
+            "calories": "310 kcal",
+            "protein": "7 g",
+            "carbohydrates": "27 g",
+            "fat": "8 g",
+            "fiber": "2 g"
+        }
+    },
+    "methi thepla": {
+        "name": "Methi Thepla",
+        "ingredients": [
+            "Ingredient 1 for methi thepla",
+            "Ingredient 2 for methi thepla",
+            "Ingredient 3 for methi thepla",
+            "Ingredient 4 for methi thepla",
+            "Ingredient 5 for methi thepla",
+            "Ingredient 6 for methi thepla",
+            "Ingredient 7 for methi thepla",
+            "Ingredient 8 for methi thepla"
+        ],
+        "steps": [
+            "Step 1 for making methi thepla",
+            "Step 2 for making methi thepla",
+            "Step 3 for making methi thepla",
+            "Step 4 for making methi thepla",
+            "Step 5 for making methi thepla",
+            "Step 6 for making methi thepla"
+        ],
+        "nutrition": {
+            "calories": "315 kcal",
+            "protein": "8 g",
+            "carbohydrates": "28 g",
+            "fat": "9 g",
+            "fiber": "3 g"
+        }
+    },
+    "malai kofta": {
+        "name": "Malai Kofta",
+        "ingredients": [
+            "Ingredient 1 for malai kofta",
+            "Ingredient 2 for malai kofta",
+            "Ingredient 3 for malai kofta",
+            "Ingredient 4 for malai kofta",
+            "Ingredient 5 for malai kofta",
+            "Ingredient 6 for malai kofta",
+            "Ingredient 7 for malai kofta",
+            "Ingredient 8 for malai kofta",
+            "Ingredient 9 for malai kofta"
+        ],
+        "steps": [
+            "Step 1 for making malai kofta",
+            "Step 2 for making malai kofta",
+            "Step 3 for making malai kofta",
+            "Step 4 for making malai kofta"
+        ],
+        "nutrition": {
+            "calories": "320 kcal",
+            "protein": "5 g",
+            "carbohydrates": "29 g",
+            "fat": "10 g",
+            "fiber": "1 g"
+        }
+    },
+    "chana masala": {
+        "name": "Chana Masala",
+        "ingredients": [
+            "Ingredient 1 for chana masala",
+            "Ingredient 2 for chana masala",
+            "Ingredient 3 for chana masala",
+            "Ingredient 4 for chana masala",
+            "Ingredient 5 for chana masala"
+        ],
+        "steps": [
+            "Step 1 for making chana masala",
+            "Step 2 for making chana masala",
+            "Step 3 for making chana masala",
+            "Step 4 for making chana masala",
+            "Step 5 for making chana masala"
+        ],
+        "nutrition": {
+            "calories": "325 kcal",
+            "protein": "6 g",
+            "carbohydrates": "30 g",
+            "fat": "6 g",
+            "fiber": "2 g"
+        }
+    },
+    "kathi roll": {
+        "name": "Kathi Roll",
+        "ingredients": [
+            "Ingredient 1 for kathi roll",
+            "Ingredient 2 for kathi roll",
+            "Ingredient 3 for kathi roll",
+            "Ingredient 4 for kathi roll",
+            "Ingredient 5 for kathi roll",
+            "Ingredient 6 for kathi roll"
+        ],
+        "steps": [
+            "Step 1 for making kathi roll",
+            "Step 2 for making kathi roll",
+            "Step 3 for making kathi roll",
+            "Step 4 for making kathi roll",
+            "Step 5 for making kathi roll",
+            "Step 6 for making kathi roll"
+        ],
+        "nutrition": {
+            "calories": "330 kcal",
+            "protein": "7 g",
+            "carbohydrates": "31 g",
+            "fat": "7 g",
+            "fiber": "3 g"
+        }
+    },
+    "keema": {
+        "name": "Keema",
+        "ingredients": [
+            "Ingredient 1 for keema",
+            "Ingredient 2 for keema",
+            "Ingredient 3 for keema",
+            "Ingredient 4 for keema",
+            "Ingredient 5 for keema",
+            "Ingredient 6 for keema",
+            "Ingredient 7 for keema"
+        ],
+        "steps": [
+            "Step 1 for making keema",
+            "Step 2 for making keema",
+            "Step 3 for making keema",
+            "Step 4 for making keema"
+        ],
+        "nutrition": {
+            "calories": "335 kcal",
+            "protein": "8 g",
+            "carbohydrates": "32 g",
+            "fat": "8 g",
+            "fiber": "1 g"
+        }
+    },
+    "fish curry": {
+        "name": "Fish Curry",
+        "ingredients": [
+            "Ingredient 1 for fish curry",
+            "Ingredient 2 for fish curry",
+            "Ingredient 3 for fish curry",
+            "Ingredient 4 for fish curry",
+            "Ingredient 5 for fish curry",
+            "Ingredient 6 for fish curry",
+            "Ingredient 7 for fish curry",
+            "Ingredient 8 for fish curry"
+        ],
+        "steps": [
+            "Step 1 for making fish curry",
+            "Step 2 for making fish curry",
+            "Step 3 for making fish curry",
+            "Step 4 for making fish curry",
+            "Step 5 for making fish curry"
+        ],
+        "nutrition": {
+            "calories": "340 kcal",
+            "protein": "5 g",
+            "carbohydrates": "33 g",
+            "fat": "9 g",
+            "fiber": "2 g"
+        }
+    },
+    "mutton curry": {
+        "name": "Mutton Curry",
+        "ingredients": [
+            "Ingredient 1 for mutton curry",
+            "Ingredient 2 for mutton curry",
+            "Ingredient 3 for mutton curry",
+            "Ingredient 4 for mutton curry",
+            "Ingredient 5 for mutton curry",
+            "Ingredient 6 for mutton curry",
+            "Ingredient 7 for mutton curry",
+            "Ingredient 8 for mutton curry",
+            "Ingredient 9 for mutton curry"
+        ],
+        "steps": [
+            "Step 1 for making mutton curry",
+            "Step 2 for making mutton curry",
+            "Step 3 for making mutton curry",
+            "Step 4 for making mutton curry",
+            "Step 5 for making mutton curry",
+            "Step 6 for making mutton curry"
+        ],
+        "nutrition": {
+            "calories": "345 kcal",
+            "protein": "6 g",
+            "carbohydrates": "34 g",
+            "fat": "10 g",
+            "fiber": "3 g"
+        }
+    },
+    "egg curry": {
+        "name": "Egg Curry",
+        "ingredients": [
+            "Ingredient 1 for egg curry",
+            "Ingredient 2 for egg curry",
+            "Ingredient 3 for egg curry",
+            "Ingredient 4 for egg curry",
+            "Ingredient 5 for egg curry"
+        ],
+        "steps": [
+            "Step 1 for making egg curry",
+            "Step 2 for making egg curry",
+            "Step 3 for making egg curry",
+            "Step 4 for making egg curry"
+        ],
+        "nutrition": {
+            "calories": "350 kcal",
+            "protein": "7 g",
+            "carbohydrates": "25 g",
+            "fat": "6 g",
+            "fiber": "1 g"
+        }
+    },
+    "veg korma": {
+        "name": "Veg Korma",
+        "ingredients": [
+            "Ingredient 1 for veg korma",
+            "Ingredient 2 for veg korma",
+            "Ingredient 3 for veg korma",
+            "Ingredient 4 for veg korma",
+            "Ingredient 5 for veg korma",
+            "Ingredient 6 for veg korma"
+        ],
+        "steps": [
+            "Step 1 for making veg korma",
+            "Step 2 for making veg korma",
+            "Step 3 for making veg korma",
+            "Step 4 for making veg korma",
+            "Step 5 for making veg korma"
+        ],
+        "nutrition": {
+            "calories": "355 kcal",
+            "protein": "8 g",
+            "carbohydrates": "26 g",
+            "fat": "7 g",
+            "fiber": "2 g"
+        }
+    },
+    "uttapam": {
+        "name": "Uttapam",
+        "ingredients": [
+            "Ingredient 1 for uttapam",
+            "Ingredient 2 for uttapam",
+            "Ingredient 3 for uttapam",
+            "Ingredient 4 for uttapam",
+            "Ingredient 5 for uttapam",
+            "Ingredient 6 for uttapam",
+            "Ingredient 7 for uttapam"
+        ],
+        "steps": [
+            "Step 1 for making uttapam",
+            "Step 2 for making uttapam",
+            "Step 3 for making uttapam",
+            "Step 4 for making uttapam",
+            "Step 5 for making uttapam",
+            "Step 6 for making uttapam"
+        ],
+        "nutrition": {
+            "calories": "360 kcal",
+            "protein": "5 g",
+            "carbohydrates": "27 g",
+            "fat": "8 g",
+            "fiber": "3 g"
+        }
+    },
+    "dal fry": {
+        "name": "Dal Fry",
+        "ingredients": [
+            "Ingredient 1 for dal fry",
+            "Ingredient 2 for dal fry",
+            "Ingredient 3 for dal fry",
+            "Ingredient 4 for dal fry",
+            "Ingredient 5 for dal fry",
+            "Ingredient 6 for dal fry",
+            "Ingredient 7 for dal fry",
+            "Ingredient 8 for dal fry"
+        ],
+        "steps": [
+            "Step 1 for making dal fry",
+            "Step 2 for making dal fry",
+            "Step 3 for making dal fry",
+            "Step 4 for making dal fry"
+        ],
+        "nutrition": {
+            "calories": "365 kcal",
+            "protein": "6 g",
+            "carbohydrates": "28 g",
+            "fat": "9 g",
+            "fiber": "1 g"
+        }
+    },
+    "jeera rice": {
+        "name": "Jeera Rice",
+        "ingredients": [
+            "Ingredient 1 for jeera rice",
+            "Ingredient 2 for jeera rice",
+            "Ingredient 3 for jeera rice",
+            "Ingredient 4 for jeera rice",
+            "Ingredient 5 for jeera rice",
+            "Ingredient 6 for jeera rice",
+            "Ingredient 7 for jeera rice",
+            "Ingredient 8 for jeera rice",
+            "Ingredient 9 for jeera rice"
+        ],
+        "steps": [
+            "Step 1 for making jeera rice",
+            "Step 2 for making jeera rice",
+            "Step 3 for making jeera rice",
+            "Step 4 for making jeera rice",
+            "Step 5 for making jeera rice"
+        ],
+        "nutrition": {
+            "calories": "370 kcal",
+            "protein": "7 g",
+            "carbohydrates": "29 g",
+            "fat": "10 g",
+            "fiber": "2 g"
+        }
+    },
+    "lemon rice": {
+        "name": "Lemon Rice",
+        "ingredients": [
+            "Ingredient 1 for lemon rice",
+            "Ingredient 2 for lemon rice",
+            "Ingredient 3 for lemon rice",
+            "Ingredient 4 for lemon rice",
+            "Ingredient 5 for lemon rice"
+        ],
+        "steps": [
+            "Step 1 for making lemon rice",
+            "Step 2 for making lemon rice",
+            "Step 3 for making lemon rice",
+            "Step 4 for making lemon rice",
+            "Step 5 for making lemon rice",
+            "Step 6 for making lemon rice"
+        ],
+        "nutrition": {
+            "calories": "375 kcal",
+            "protein": "8 g",
+            "carbohydrates": "30 g",
+            "fat": "6 g",
+            "fiber": "3 g"
+        }
+    },
+    "tamatar sabzi": {
+        "name": "Tamatar Sabzi",
+        "ingredients": [
+            "Ingredient 1 for tamatar sabzi",
+            "Ingredient 2 for tamatar sabzi",
+            "Ingredient 3 for tamatar sabzi",
+            "Ingredient 4 for tamatar sabzi",
+            "Ingredient 5 for tamatar sabzi",
+            "Ingredient 6 for tamatar sabzi"
+        ],
+        "steps": [
+            "Step 1 for making tamatar sabzi",
+            "Step 2 for making tamatar sabzi",
+            "Step 3 for making tamatar sabzi",
+            "Step 4 for making tamatar sabzi"
+        ],
+        "nutrition": {
+            "calories": "380 kcal",
+            "protein": "5 g",
+            "carbohydrates": "31 g",
+            "fat": "7 g",
+            "fiber": "1 g"
+        }
+    },
+    "lauki kofta": {
+        "name": "Lauki Kofta",
+        "ingredients": [
+            "Ingredient 1 for lauki kofta",
+            "Ingredient 2 for lauki kofta",
+            "Ingredient 3 for lauki kofta",
+            "Ingredient 4 for lauki kofta",
+            "Ingredient 5 for lauki kofta",
+            "Ingredient 6 for lauki kofta",
+            "Ingredient 7 for lauki kofta"
+        ],
+        "steps": [
+            "Step 1 for making lauki kofta",
+            "Step 2 for making lauki kofta",
+            "Step 3 for making lauki kofta",
+            "Step 4 for making lauki kofta",
+            "Step 5 for making lauki kofta"
+        ],
+        "nutrition": {
+            "calories": "385 kcal",
+            "protein": "6 g",
+            "carbohydrates": "32 g",
+            "fat": "8 g",
+            "fiber": "2 g"
+        }
+    },
+    "sabudana khichdi": {
+        "name": "Sabudana Khichdi",
+        "ingredients": [
+            "Ingredient 1 for sabudana khichdi",
+            "Ingredient 2 for sabudana khichdi",
+            "Ingredient 3 for sabudana khichdi",
+            "Ingredient 4 for sabudana khichdi",
+            "Ingredient 5 for sabudana khichdi",
+            "Ingredient 6 for sabudana khichdi",
+            "Ingredient 7 for sabudana khichdi",
+            "Ingredient 8 for sabudana khichdi"
+        ],
+        "steps": [
+            "Step 1 for making sabudana khichdi",
+            "Step 2 for making sabudana khichdi",
+            "Step 3 for making sabudana khichdi",
+            "Step 4 for making sabudana khichdi",
+            "Step 5 for making sabudana khichdi",
+            "Step 6 for making sabudana khichdi"
+        ],
+        "nutrition": {
+            "calories": "390 kcal",
+            "protein": "7 g",
+            "carbohydrates": "33 g",
+            "fat": "9 g",
+            "fiber": "3 g"
+        }
+    },
+    "moong dal chilla": {
+        "name": "Moong Dal Chilla",
+        "ingredients": [
+            "Ingredient 1 for moong dal chilla",
+            "Ingredient 2 for moong dal chilla",
+            "Ingredient 3 for moong dal chilla",
+            "Ingredient 4 for moong dal chilla",
+            "Ingredient 5 for moong dal chilla",
+            "Ingredient 6 for moong dal chilla",
+            "Ingredient 7 for moong dal chilla",
+            "Ingredient 8 for moong dal chilla",
+            "Ingredient 9 for moong dal chilla"
+        ],
+        "steps": [
+            "Step 1 for making moong dal chilla",
+            "Step 2 for making moong dal chilla",
+            "Step 3 for making moong dal chilla",
+            "Step 4 for making moong dal chilla"
+        ],
+        "nutrition": {
+            "calories": "395 kcal",
+            "protein": "8 g",
+            "carbohydrates": "34 g",
+            "fat": "10 g",
+            "fiber": "1 g"
+        }
+    },
+    "paneer bhurji": {
+        "name": "Paneer Bhurji",
+        "ingredients": [
+            "Ingredient 1 for paneer bhurji",
+            "Ingredient 2 for paneer bhurji",
+            "Ingredient 3 for paneer bhurji",
+            "Ingredient 4 for paneer bhurji",
+            "Ingredient 5 for paneer bhurji"
+        ],
+        "steps": [
+            "Step 1 for making paneer bhurji",
+            "Step 2 for making paneer bhurji",
+            "Step 3 for making paneer bhurji",
+            "Step 4 for making paneer bhurji",
+            "Step 5 for making paneer bhurji"
+        ],
+        "nutrition": {
+            "calories": "400 kcal",
+            "protein": "5 g",
+            "carbohydrates": "25 g",
+            "fat": "6 g",
+            "fiber": "2 g"
+        }
+    },
+    "garlic naan": {
+        "name": "Garlic Naan",
+        "ingredients": [
+            "Ingredient 1 for garlic naan",
+            "Ingredient 2 for garlic naan",
+            "Ingredient 3 for garlic naan",
+            "Ingredient 4 for garlic naan",
+            "Ingredient 5 for garlic naan",
+            "Ingredient 6 for garlic naan"
+        ],
+        "steps": [
+            "Step 1 for making garlic naan",
+            "Step 2 for making garlic naan",
+            "Step 3 for making garlic naan",
+            "Step 4 for making garlic naan",
+            "Step 5 for making garlic naan",
+            "Step 6 for making garlic naan"
+        ],
+        "nutrition": {
+            "calories": "405 kcal",
+            "protein": "6 g",
+            "carbohydrates": "26 g",
+            "fat": "7 g",
+            "fiber": "3 g"
+        }
+    },
+    "rumali roti": {
+        "name": "Rumali Roti",
+        "ingredients": [
+            "Ingredient 1 for rumali roti",
+            "Ingredient 2 for rumali roti",
+            "Ingredient 3 for rumali roti",
+            "Ingredient 4 for rumali roti",
+            "Ingredient 5 for rumali roti",
+            "Ingredient 6 for rumali roti",
+            "Ingredient 7 for rumali roti"
+        ],
+        "steps": [
+            "Step 1 for making rumali roti",
+            "Step 2 for making rumali roti",
+            "Step 3 for making rumali roti",
+            "Step 4 for making rumali roti"
+        ],
+        "nutrition": {
+            "calories": "410 kcal",
+            "protein": "7 g",
+            "carbohydrates": "27 g",
+            "fat": "8 g",
+            "fiber": "1 g"
+        }
+    },
+    "appam": {
+        "name": "Appam",
+        "ingredients": [
+            "Ingredient 1 for appam",
+            "Ingredient 2 for appam",
+            "Ingredient 3 for appam",
+            "Ingredient 4 for appam",
+            "Ingredient 5 for appam",
+            "Ingredient 6 for appam",
+            "Ingredient 7 for appam",
+            "Ingredient 8 for appam"
+        ],
+        "steps": [
+            "Step 1 for making appam",
+            "Step 2 for making appam",
+            "Step 3 for making appam",
+            "Step 4 for making appam",
+            "Step 5 for making appam"
+        ],
+        "nutrition": {
+            "calories": "415 kcal",
+            "protein": "8 g",
+            "carbohydrates": "28 g",
+            "fat": "9 g",
+            "fiber": "2 g"
+        }
+    },
+    "chettinad curry": {
+        "name": "Chettinad Curry",
+        "ingredients": [
+            "Ingredient 1 for chettinad curry",
+            "Ingredient 2 for chettinad curry",
+            "Ingredient 3 for chettinad curry",
+            "Ingredient 4 for chettinad curry",
+            "Ingredient 5 for chettinad curry",
+            "Ingredient 6 for chettinad curry",
+            "Ingredient 7 for chettinad curry",
+            "Ingredient 8 for chettinad curry",
+            "Ingredient 9 for chettinad curry"
+        ],
+        "steps": [
+            "Step 1 for making chettinad curry",
+            "Step 2 for making chettinad curry",
+            "Step 3 for making chettinad curry",
+            "Step 4 for making chettinad curry",
+            "Step 5 for making chettinad curry",
+            "Step 6 for making chettinad curry"
+        ],
+        "nutrition": {
+            "calories": "420 kcal",
+            "protein": "5 g",
+            "carbohydrates": "29 g",
+            "fat": "10 g",
+            "fiber": "3 g"
+        }
+    },
+    "mango pickle": {
+        "name": "Mango Pickle",
+        "ingredients": [
+            "Ingredient 1 for mango pickle",
+            "Ingredient 2 for mango pickle",
+            "Ingredient 3 for mango pickle",
+            "Ingredient 4 for mango pickle",
+            "Ingredient 5 for mango pickle"
+        ],
+        "steps": [
+            "Step 1 for making mango pickle",
+            "Step 2 for making mango pickle",
+            "Step 3 for making mango pickle",
+            "Step 4 for making mango pickle"
+        ],
+        "nutrition": {
+            "calories": "425 kcal",
+            "protein": "6 g",
+            "carbohydrates": "30 g",
+            "fat": "6 g",
+            "fiber": "1 g"
+        }
+    },
+    "gajar halwa": {
+        "name": "Gajar Halwa",
+        "ingredients": [
+            "Ingredient 1 for gajar halwa",
+            "Ingredient 2 for gajar halwa",
+            "Ingredient 3 for gajar halwa",
+            "Ingredient 4 for gajar halwa",
+            "Ingredient 5 for gajar halwa",
+            "Ingredient 6 for gajar halwa"
+        ],
+        "steps": [
+            "Step 1 for making gajar halwa",
+            "Step 2 for making gajar halwa",
+            "Step 3 for making gajar halwa",
+            "Step 4 for making gajar halwa",
+            "Step 5 for making gajar halwa"
+        ],
+        "nutrition": {
+            "calories": "430 kcal",
+            "protein": "7 g",
+            "carbohydrates": "31 g",
+            "fat": "7 g",
+            "fiber": "2 g"
+        }
+    },
+    "rasgulla": {
+        "name": "Rasgulla",
+        "ingredients": [
+            "Ingredient 1 for rasgulla",
+            "Ingredient 2 for rasgulla",
+            "Ingredient 3 for rasgulla",
+            "Ingredient 4 for rasgulla",
+            "Ingredient 5 for rasgulla",
+            "Ingredient 6 for rasgulla",
+            "Ingredient 7 for rasgulla"
+        ],
+        "steps": [
+            "Step 1 for making rasgulla",
+            "Step 2 for making rasgulla",
+            "Step 3 for making rasgulla",
+            "Step 4 for making rasgulla",
+            "Step 5 for making rasgulla",
+            "Step 6 for making rasgulla"
+        ],
+        "nutrition": {
+            "calories": "435 kcal",
+            "protein": "8 g",
+            "carbohydrates": "32 g",
+            "fat": "8 g",
+            "fiber": "3 g"
+        }
+    },
+    "gulab jamun": {
+        "name": "Gulab Jamun",
+        "ingredients": [
+            "Ingredient 1 for gulab jamun",
+            "Ingredient 2 for gulab jamun",
+            "Ingredient 3 for gulab jamun",
+            "Ingredient 4 for gulab jamun",
+            "Ingredient 5 for gulab jamun",
+            "Ingredient 6 for gulab jamun",
+            "Ingredient 7 for gulab jamun",
+            "Ingredient 8 for gulab jamun"
+        ],
+        "steps": [
+            "Step 1 for making gulab jamun",
+            "Step 2 for making gulab jamun",
+            "Step 3 for making gulab jamun",
+            "Step 4 for making gulab jamun"
+        ],
+        "nutrition": {
+            "calories": "440 kcal",
+            "protein": "5 g",
+            "carbohydrates": "33 g",
+            "fat": "9 g",
+            "fiber": "1 g"
+        }
+    },
+    "jalebi": {
+        "name": "Jalebi",
+        "ingredients": [
+            "Ingredient 1 for jalebi",
+            "Ingredient 2 for jalebi",
+            "Ingredient 3 for jalebi",
+            "Ingredient 4 for jalebi",
+            "Ingredient 5 for jalebi",
+            "Ingredient 6 for jalebi",
+            "Ingredient 7 for jalebi",
+            "Ingredient 8 for jalebi",
+            "Ingredient 9 for jalebi"
+        ],
+        "steps": [
+            "Step 1 for making jalebi",
+            "Step 2 for making jalebi",
+            "Step 3 for making jalebi",
+            "Step 4 for making jalebi",
+            "Step 5 for making jalebi"
+        ],
+        "nutrition": {
+            "calories": "445 kcal",
+            "protein": "6 g",
+            "carbohydrates": "34 g",
+            "fat": "10 g",
+            "fiber": "2 g"
+        }
+      }
+    }
+  
