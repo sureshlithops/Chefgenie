@@ -9,7 +9,7 @@ import httpx
 app = FastAPI()
 
 # Configuration
-SPOONACULAR_API_KEY = "dc031701d2904e02bf5dc00b9503b77e"
+SPOONACULAR_API_KEY = "###############"
 STATIC_DIR = Path("C:/HTML/chefgenie/static")
 RECIPES_FILE = STATIC_DIR / "recipes.json"
 
@@ -116,3 +116,4 @@ async def process_command(request: Request):
     except Exception as e:
         print("🚨 Internal error:", e)
         return JSONResponse(status_code=500, content={"error": str(e)})
+
